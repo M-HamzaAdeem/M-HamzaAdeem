@@ -23,11 +23,11 @@
 <a href="https://instagram.com/hamxa_adeem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamxa_adeem" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Projessional certifications:</h3>
+<h3 align="left">Professional Certifications:</h3>
 <p align="left">
-<a href="https://coursera.org/share/dcba2384e4d2460ecd8da9e086347157" target="_blank"><img align="center" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FJGVL22JS9ER/CERTIFICATE_LANDING_PAGE~FJGVL22JS9ER.jpeg" alt="mhamza-adeem" height="60" width="90" /></a>
-<a href="https://www.udemy.com/certificate/UC-cb812987-1f82-4c7b-a02b-ef845b526c91/" target="_blank"><img align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-cb812987-1f82-4c7b-a02b-ef845b526c91.jpg" alt="mhamza-adeem" height="60" width="90" /></a>
-<a href="https://www.udemy.com/certificate/UC-41f4eb01-e261-4fe2-b589-857fb4b36d47/" target="_blank"><img align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-41f4eb01-e261-4fe2-b589-857fb4b36d47.jpg" alt="mhamza-adeem" height="60" width="90" /></a>
+  <a href="https://coursera.org/share/dcba2384e4d2460ecd8da9e086347157" target="_blank"><img align="center" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FJGVL22JS9ER/CERTIFICATE_LANDING_PAGE~FJGVL22JS9ER.jpeg" alt="mhamza-adeem" height="60" width="90" /></a>
+  <a href="https://www.udemy.com/certificate/UC-cb812987-1f82-4c7b-a02b-ef845b526c91/" target="_blank"><img align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-cb812987-1f82-4c7b-a02b-ef845b526c91.jpg" alt="mhamza-adeem" height="60" width="90" /></a>
+  <a href="https://www.udemy.com/certificate/UC-41f4eb01-e261-4fe2-b589-857fb4b36d47/" target="_blank"><img align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-41f4eb01-e261-4fe2-b589-857fb4b36d47.jpg" alt="mhamza-adeem" height="60" width="90" /></a>
 </p>
 
 
