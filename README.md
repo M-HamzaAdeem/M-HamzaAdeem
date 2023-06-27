@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Hamza Adeem</h1>
 <h3 align="center">An enthusiastic Full Stack developer hailing from Pakistan, dedicated to crafting innovative digital solutions that inspire and empower.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamzaadeem&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamzaadeem" /> </p>
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Professional Certifications:</h3>
 <p align="left">
-  <a href="https://coursera.org/share/dcba2384e4d2460ecd8da9e086347157" target="_blank"><img align="center" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FJGVL22JS9ER/CERTIFICATE_LANDING_PAGE~FJGVL22JS9ER.jpeg" alt="mhamza-adeem" height="60" width="110" /></a>
+  <a href="https://coursera.org/share/dcba2384e4d2460ecd8da9e086347157" target="_blank"><img align="center" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FJGVL22JS9ER/CERTIFICATE_LANDING_PAGE~FJGVL22JS9ER.jpeg" alt="mhamza-adeem" height="60" width="90" /></a>
   <a href="https://www.udemy.com/certificate/UC-cb812987-1f82-4c7b-a02b-ef845b526c91/" target="_blank"><img align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-cb812987-1f82-4c7b-a02b-ef845b526c91.jpg" alt="mhamza-adeem" height="60" width="90" /></a>
   <a href="https://www.udemy.com/certificate/UC-41f4eb01-e261-4fe2-b589-857fb4b36d47/" target="_blank"><img align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-41f4eb01-e261-4fe2-b589-857fb4b36d47.jpg" alt="mhamza-adeem" height="60" width="90" /></a>
 </p>
