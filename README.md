@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML , CSS , Javascript , Nodejs , Express , MongoDB**
+- 💬 Ask me about **HTML , CSS , Javascript , C# , .Net framework , .Net Core , MS SQL Server**
 
 - 📫 How to reach me **mhamza.adeem@gmail.com**
 
